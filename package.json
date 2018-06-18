@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/C45tr0/agenda-db-sequelize#readme",
   "dependencies": {
-    "agenda": "github:c45tr0/agenda#db-adapters",
+    "agenda": "https://github.com/c45tr0/agenda#db-adapters",
     "env-cmd": "^5.0.0",
     "sequelize": "^4.32.1"
   },
